@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: hogwartsPoints
+    datasource:
+        url: jdbc:postgresql://localhost:5432/hogwartsPoints
+        username: postgres
+        password: senha
+#    flyway:
+#        locations: db/migration
